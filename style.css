@@ -1,0 +1,43 @@
+body {
+  background-color:black;
+
+}
+
+h1 {
+  font-family: monospace;
+  color:white;
+}
+
+h2 {
+  font-family: monospace;
+  color:white;
+  text-decoration: underline;
+}
+
+
+.div1 {
+  text-align:center;
+  margin-top:50px;
+  margin-left:400px;
+  margin-right:400px;
+
+}
+
+
+p {
+  font-family: monospace;
+  color:white;
+  text-align:center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.cs1114 {
+  border-color:white;
+  border-style:inset;
+  border-radius: 4px;
+}
+
+.cs {
+  width:400px;
+}
