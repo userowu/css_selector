@@ -43,9 +43,11 @@ div > p {
 }
 
 .cs1114 {
+
   border-color:white;
-  border-style:inset;
+  border: 1vmin solid;
   border-radius: 4vmin;
+  border-style:inset;
   min-width:80vmin;
 
 }
